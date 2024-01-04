@@ -1,0 +1,18 @@
+h1{
+	text-align: center;
+	background-color: orange;
+}
+
+img{
+	position: sticky;
+}
+
+#n1{
+	font-size: 50px;
+	background-color: teal;
+}
+
+#n2{
+	font-size: 50px;
+	background-color: darkred;
+}
