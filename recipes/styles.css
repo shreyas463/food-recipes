@@ -1,9 +1,9 @@
-/* General Styles */
+
 body {
     font-family: 'Arial', sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f8f8f8;
+    background-color: #f0f8ff; /* Light blue background */
     color: #333;
     line-height: 1.6;
 }
@@ -13,11 +13,15 @@ body {
     width: 80%;
     margin: auto;
     overflow: hidden;
+    background-color: #fff; /* White background for content */
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
 }
 
 /* Header */
 h1 {
-    background-color: #ff7f50;
+    background-color: #ffa07a; /* Light salmon */
     color: white;
     padding: 20px 0;
     text-align: center;
@@ -36,12 +40,14 @@ img {
 p {
     font-size: 18px;
     margin-bottom: 20px;
+    color: #556b2f; /* Dark olive green */
 }
 
 /* Lists */
 ul, ol {
     margin: 20px;
     padding-left: 40px;
+    color: #8a2be2; /* Blue violet */
 }
 
 li {
@@ -50,7 +56,7 @@ li {
 
 /* Sub-headings */
 h3 {
-    color: #ff7f50;
+    color: #20b2aa; /* Light sea green */
     margin-bottom: 10px;
 }
 
@@ -58,7 +64,7 @@ h3 {
 footer {
     text-align: center;
     padding: 20px 0;
-    background-color: #333;
+    background-color: #4682b4; /* Steel blue */
     color: white;
 }
 
